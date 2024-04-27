@@ -1,9 +1,9 @@
-## This project demonstrates the creation of a comprehensive IPL dashboard using Power BI. It covers data extraction from a SQL database, data processing and DAX queries, dashboard design, and sharing insights. The project aims to provide real-time insights into credit card operations, enabling stakeholders to monitor and analyze performance efficiently.  
+## This project demonstrates the creation of a comprehensive IPL dashboard using Power BI. It covers data extraction from a SQL database, data processing and DAX queries, dashboard design, and sharing insights. The project aims to provide real-time insights into  operations, enabling  to monitor and analyze performance efficiently.  
 
 
 - Devlope Comprehensive credit card weekly dashborad provides real time weekly insight  insights 
 - insight into key performance matrix and trend 
-- Enable to stasck honder to moniter and analyze credit card operation effectively  
+- Enable to stasck honder to moniter and analyze operation effectively  
 
 
 ## 1. Project objective
